@@ -22,7 +22,7 @@ This project analyzes the Profit & Loss (P&L) performance of AtliQ Hardware acro
 ## P&L by Fiscal Years
 ![P&l Report](https://github.com/Shahna-k25/Excel-Sales-_Analysis/blob/main/p%26l%20fiscal%20year.png)
 ##  P&L by Quaters
-![P&l Report by quater](https://github.com/Shahna-k25/Excel-Sales-_Analysis/blob/main/p%26l%20by%20quaters.png)
+![P&l  by quater](https://github.com/Shahna-k25/Excel-Sales-_Analysis/blob/main/p%26l%20by%20quaters.png)
 ## P&L by Markets
-![P&l  by market](![P&l Report by quater](https://github.com/Shahna-k25/Excel-Sales-_Analysis/blob/main/p%26l%20by%20quaters.png))
+![P&l  by market](https://github.com/Shahna-k25/Excel-Sales-_Analysis/blob/main/P%26l%20by%20market.png)
 
