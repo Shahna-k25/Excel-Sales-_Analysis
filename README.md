@@ -27,3 +27,8 @@ This project analyzes the Profit & Loss (P&L) performance of AtliQ Hardware acro
 ![P&l  by market](https://github.com/Shahna-k25/Excel-Sales-_Analysis/blob/main/P%26l%20by%20market.png)
 ## GM% by Quaters 
 ![gm% by quaters](https://github.com/Shahna-k25/Excel-Sales-_Analysis/blob/main/Gm%25%20by%20quaters.png)
+
+## Key Learnings
+- Strengthened expertise in Excel-based financial reporting and Power Query automation
+- Learned how to transform raw transactional data into business-ready financial insights.
+- Gained experience in presenting P&L data in a clear and actionable format.
