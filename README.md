@@ -20,7 +20,7 @@ This project analyzes the Profit & Loss (P&L) performance of AtliQ Hardware acro
    - Visual reports summarizing profitability trends 
 # Visuals
 ## P&L by Fiscal Years
-![data modeling](https://github.com/Shahna-k25/AtliQ-Hospitality-Domain/blob/main/AtliQ%20datamodeling.png)
+![P&l Report](https://github.com/Shahna-k25/Excel-Sales-_Analysis/blob/main/p%26l%20fiscal%20year.png)
 
 
 
